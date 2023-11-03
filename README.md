@@ -25,6 +25,7 @@ cd product_script
 ```
 
 ### git branch の使い方の確認
+git の branch のテスト
 
 # PredRNN: A Recurrent Neural Network for Spatiotemporal Predictive Learning (TPAMI 2022)
 
